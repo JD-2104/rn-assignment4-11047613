@@ -15,7 +15,6 @@ const PopularJobCard = ({ imageUrl, label, pay, miniLabel, location}) => {
   )
 }
 
-
 const styles = StyleSheet.create({
   container: {
     borderRadius: 12,
