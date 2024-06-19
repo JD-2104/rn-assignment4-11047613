@@ -26,8 +26,7 @@ const styles = StyleSheet.create({
       marginVertical: 1,      
       borderRadius: 24, 
       margin: 15,         
-      overflow: 'hidden',
-      
+      overflow: 'hidden', 
     },
   
     label: {
