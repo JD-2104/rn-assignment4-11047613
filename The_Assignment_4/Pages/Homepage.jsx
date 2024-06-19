@@ -20,13 +20,13 @@ const horizontalData = [
   ];
 
   const verticalData = [
-	{ key: '1', imageUrl: require("../assets/Images/burgerKing.png"), location: "Accra,Ghana", pay: "$3,000/mth", label: "Software Engineering", miniLabel: "Burger King", },
+	{ key: '1', imageUrl: require("../assets/Images/burgerKing.png"), location: "Accra,Ghana", pay: "$4,000/mth", label: "Software Engineering", miniLabel: "Burger King", },
 	{ key: '2', imageUrl: require("../assets/Images/beats.png"), location: "Accra,Ghana", pay: "$3,000/mth", label: "Software Engineering", miniLabel: "Beats", },
-	{ key: '3', imageUrl: require("../assets/Images/google.png"),  location: "Accra,Ghana", pay: "$3,000/mth", label: "Software ", miniLabel: "Google", },
+	{ key: '3', imageUrl: require("../assets/Images/google.png"),  location: "Accra,Ghana", pay: "$5,000/mth", label: "Software ", miniLabel: "Google", },
 	{ key: '4', imageUrl: require("../assets/Images/apple.png"), location: "Accra,Ghana", pay: "$3,000/mth", label: "Software Engineering", miniLabel: "Apple",  },
-	{ key: '5', imageUrl: require("../assets/Images/facebook.png"), location: "Accra,Ghana", pay: "$3,000/mth", label: "Software Engineering", miniLabel: "Facebook", },
+	{ key: '5', imageUrl: require("../assets/Images/facebook.png"), location: "Accra,Ghana", pay: "$6,000/mth", label: "Software Engineering", miniLabel: "Facebook", },
 	{ key: '6', imageUrl: require("../assets/Images/apple.png"), location: "Accra,Ghana", pay: "$3,000/mth", label: "Software Engineering", miniLabel: "Apple", },
-	{ key: '7', imageUrl: require("../assets/Images/google.png"),  location: "Accra,Ghana", pay: "$3,000/mth", label: "Software Engineering", miniLabel: "Google", },
+	{ key: '7', imageUrl: require("../assets/Images/google.png"),  location: "Accra,Ghana", pay: "$6,000/mth", label: "Software Engineering", miniLabel: "Google", },
 	{ key: '8', imageUrl: require("../assets/Images/facebook.png"), location: "Accra,Ghana", pay: "$3,000/mth", label: "Software Engineering", miniLabel: "Facebook", },
   ];
 
