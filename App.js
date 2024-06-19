@@ -1,5 +1,5 @@
 import LogInPage from './Pages/LogInPage';
-import Homepage from './Pages/Homepage'
+import Homepage from './Pages/Homepage';
 import { StyleSheet, Text, View } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
@@ -33,6 +33,5 @@ const styles = StyleSheet.create({
   },
 
 });
-
 
 export default App
