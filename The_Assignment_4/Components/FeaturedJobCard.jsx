@@ -75,13 +75,6 @@ const styles = StyleSheet.create({
       resizeMode: 'cover',
     }
 
-    /*
-    backgroundImage: {        
-    ...StyleSheet.absoluteFillObject, 
-    resizeMode: 'cover', 
-    opacity: 0.5, 
-    },
-    */
 });
 
 export default FeaturedJobCard;
